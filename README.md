@@ -19,3 +19,8 @@ The circuit runs forwards, when both motor A and motor B are running forwards. T
 
 ![image](https://user-images.githubusercontent.com/65428267/96393777-29d84680-118e-11eb-9a59-8903494433f9.png)
 Figure 2: Shows the simulated circuit running forward.
+
+
+##Link to view project
+
+https://www.tinkercad.com/things/c3zrXT39uuh
