@@ -8,6 +8,9 @@ The next step in creating the circuit was connecting the potentiometer. I did th
 
 The last step in creating the circuit was connecting the dip switch to the arduino. This was done by connecting one side of the switch to ground, and connecting the switch to digital pins 2,7,8, and 12.
 
+![image](https://user-images.githubusercontent.com/65428267/96393682-e1208d80-118d-11eb-83c5-c51a9d6eaee4.png)
+Figure 1: This is a picture of the circuit before being programmed.
+
 ##Programming the Arduino
 
 The arduino was programmed to run the circuit 'forwards', 'backwards', 'left', 'right', and 'stop'. To program the arduino I first had to understand what the switches were responsible for. For example, when switch 1 is HIGH, input 1 is LOW, and so on. 
